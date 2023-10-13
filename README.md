@@ -14,10 +14,10 @@
 <a href="https://github.com/CodeForBots"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" style="right:0px" /></a>
 
 <ul>
-    <li>🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ °<a href="https://t.me/CodeForBots">Official Bots</a>°
+    <li>🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ °<a href="https://t.me/innexiaUpdate">Official Bots</a>°
     <li>🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ °Pʏᴛʜᴏɴ PʏʀᴏGʀᴀᴍ°
     <li>🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ [Nᴏᴏʙ Cᴏᴅᴇʀ]
-    <li>💬 I Mᴏꜱᴛʟʏ Uꜱᴇ <strong><a href="http://telegram.dog/RobotDevs" target="_blank" rel="noopener noreferrer">TᴇʟᴇGʀᴀᴍ</a></strong>.</li>
+    <li>💬 I Mᴏꜱᴛʟʏ Uꜱᴇ <strong><a href="http://telegram.dog/WhoisSameer" target="_blank" rel="noopener noreferrer">TᴇʟᴇGʀᴀᴍ</a></strong>.</li>
     <li>💡 <s><b>Fᴏʟʟᴏᴡ</b>ɪɴɢ <b>Mᴇ</b> Iꜱ WORTHLESS.</s></li>
 </ul>
 
